@@ -59,7 +59,7 @@ Llegamos a un **consenso tras debate**:
 ### Encabezado
 
 
-**Verificación de certificados y titulos haciendo uso de tecnologias Blockchain** 
+**Verificación de certificados y titulos haciendo uso de tecnologias Blockchain - VerifyW3** 
 
 Verificar hoy un título o certificado exige días de correos y trámites con cada institución emisora; queremos que cualquier tercero pueda comprobar su autenticidad y vigencia en segundos.
 
@@ -72,7 +72,7 @@ Verificar hoy un título o certificado exige días de correos y trámites con ca
 | Nicolás González Franco | [@FRANGONICOLAS](https://github.com/FRANGONICOLAS) | `Desarrollador` |
 | Estefany Carolina Guerra G | [@Eguerrag](https://github.com/Eguerrag) | `Project manager` |
 | Ronald Guarín | [@roguar2010](https://github.com/roguar2010) | `Lider tecnico` |
-| `[COMPLETAR]` | @Celsocpp | `Desarrollador` |
+| NN | @Celsocpp | `Desarrollador` |
 
 - **Responsable de las entregas:** `Nicolas Gonzalez Franco`
 - **Canal de coordinación interna:** WhatsApp
