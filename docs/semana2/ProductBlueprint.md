@@ -2,7 +2,7 @@
 
 **Nombre del proyecto:** VerifyW3
 
-**Repositorio (enlace obligatorio):** [VerifyW3](https://github.com/roguar2010/VerifyW3)
+**Repositorio:** [VerifyW3](https://github.com/roguar2010/VerifyW3)
 
 ---
 
@@ -89,7 +89,7 @@ La funcionalidad central corresponde estrictamente a aquella sin la cual el prod
 
 ## 5. Lean Canvas
 
-**Enlace al Lean Canvas (obligatorio):** [Lean Canvas del proyecto VerifyW3](https://raw.githubusercontent.com/roguar2010/VerifyW3/main/docs/semana2/LeanCanvas.png)
+**Enlace al Lean Canvas:** [Lean Canvas del proyecto VerifyW3](https://raw.githubusercontent.com/roguar2010/VerifyW3/main/docs/semana2/LeanCanvas.png)
 
 ![Lean Canvas VerifyW3](LeanCanvas.png)
 
@@ -111,7 +111,7 @@ La funcionalidad central corresponde estrictamente a aquella sin la cual el prod
 
 ## 6. Backlog priorizado (Kanban)
 
-**Enlace al tablero (obligatorio):** [Tablero Kanban en GitHub Projects](https://github.com/users/roguar2010/projects/1)
+**Enlace al tablero:** [Tablero Kanban en GitHub Projects](https://github.com/users/roguar2010/projects/1)
 
 ### Estructura de tarjetas con Criterios de Aceptación (Formato: Dado / Cuando / Entonces):
 
