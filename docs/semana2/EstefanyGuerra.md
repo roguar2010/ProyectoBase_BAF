@@ -26,8 +26,6 @@
 
 ## La más importante y por qué
 
-> Organiza las historias de mayor a menor importancia: en la primera fila va la más importante. En cada fila indica el número de la historia y por qué la ubicaste en esa posición. Si usaste menos de 7 historias, borra las filas que sobren.
-
 | Orden de importancia | Historia # | Por qué |
 | :---: | :---: | --- |
 | 1 | **HU-01** · Verificador: comprobar autenticidad y estado. | Es la hipótesis central del Problem Brief y la métrica del MVP: pasar de días a menos de un minuto y detectar el 100 % de los documentos alterados o revocados. Resuelve F1, F2 y F4 a la vez: el documento recibido no prueba nada por sí mismo, la verificación tarda días y las revocaciones no se propagan. Si no funciona, el producto no tiene razón de ser. |
